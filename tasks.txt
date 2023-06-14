@@ -1,0 +1,12 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, no
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, yes
+tom, Files, How to read and write to and from files, 16 Oct 2022, 18 Oct 2022, no
+jack, Functions, How to use built-in functions and how to create your own, 16 Oct 2022, 11 Dec 2023, no
+sally, Loops, how to use loops to create efficient code, 16 Oct 2022, 7 Dec 2023, no
+jack, Variables, Storing data in programs, 16 Oct 2022, 28 Nov 2023, yes
+sally, Strings, How to handle string data type, 17 Oct 2022, 6 Dec 2023, yes
+tom, Files 2, How to use files in you code, 02 Nov 2022, 15 Nov 2022, no
+tom, Files 3, How to import files from external sources and create a copy, 02 Nov 2022, 04 Nov 2022, yes
+ava, Loops, How to use for and while loops, 02 Nov 2022, 05 Dec 2022, no
+ava, Test, Testing out this task manager, 02 Nov 2022, 03 Nov 2022, yes
+ava, Test, Testing the task manager again, 02 Nov 2022, 12 Dec 2022, yes
